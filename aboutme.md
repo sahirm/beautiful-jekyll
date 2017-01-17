@@ -18,4 +18,4 @@ I am completing my Master of Data Science at the [University of British Columbia
 
 ## Giving Back
 
-I wholeheartedly believe in giving back to the community so I'm often also juggling a few side projects. One of the biggest and long term projects I have been involved in is [ConnectMUN](connectmun.ca), which you can read more about in my [blog post](/post/2017-01-16-worldofconnectmun.md)
+I wholeheartedly believe in giving back to the community so I'm often also juggling a few side projects. One of the biggest and long term projects I have been involved in is [ConnectMUN](connectmun.ca), which you can read more about in my [blog post](/_posts/2017-01-16-worldofconnectmun.md)
