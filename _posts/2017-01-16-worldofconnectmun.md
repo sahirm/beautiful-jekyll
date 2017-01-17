@@ -26,6 +26,7 @@ Originally founded by Firas Moosvi and Nuwan Rajapakse in 2009 ConnectMUN is a h
 | [Little Flower Academy](http://www.lfabc.org/page/news-detail?pk=738991) |
 | [Kitsilano Secondary](http://go.vsb.bc.ca/schools/kitsilano/Students/kitsdemonnewspaper/Documents/2014-12ol.pdf) |  
 
+<br/>
 
 #### Computer Science Projects
 
