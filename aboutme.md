@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me, So Far
+subtitle: Knowing my prior
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+"Me" is of course always updating with new data but so far this is my prior!
 
-What else do you need?
+## Personal
 
-### my history
+My interests vary widely in the intellectual persuits so talk me up on anything from ancient history to cutting edge biochemistry and we can talk for hours! Privacy and ethical science are also topics dear to me! And of course if we can do some sort of analysis/visualization out it then all the better! Don't be surprised if my site has wide berth of fields.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Education
+
+I am completing my Master of Data Science at the [University of British Columbia (UBC)](http://masterdatascience.science.ubc.ca) and having an amazing time! I also completed an honours degree at UBC in biochemistry in 2015 with Dr. Wolfram Tetzlaff as my thesis supervisor. 
+
+
+## Giving Back
+
+I wholeheartedly believe in giving back to the community so I'm often also juggling a few side projects. One of the biggest and long term projects I have been involved in is [ConnectMUN](connectmun.ca), which you can read more about in my [blog post](/post/2017-01-16-worldofconnectmun.md)
