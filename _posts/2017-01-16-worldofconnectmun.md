@@ -3,7 +3,7 @@ layout: post
 title: The world of ConnectMUN   
 description: My Involvement in Model United Nations
 tags: [personal, MUN]
-image: img/connectmun_stage.jpg
+image: "/img/connectmun_stage.jpg"
 ---
 
 
