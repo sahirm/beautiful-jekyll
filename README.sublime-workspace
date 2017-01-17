@@ -1,0 +1,208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sahir/Documents/gitblog/_config.yml",
+		"/Users/sahir/Documents/MDS/Block_5/DSCI_525_lab1/src/prereq_project/prereq_project/spiders/courses.json",
+		"/Users/sahir/Documents/gitblog/_layouts/home.html",
+		"/Users/sahir/Documents/MDS/Block_4/sahir_py_std/.travis.yml",
+		"/Users/sahir/Documents/MDS/Block_3/DSCI_513_lab4/data/subset_dblp.xml",
+		"/Users/sahir/Desktop/subset_dblp.xml",
+		"/Users/sahir/Documents/MDS/Block_2/DSCI_523_lab_4/data/prize.json",
+		"/Users/sahir/Documents/MDS/Block_2/DSCI_512_lab_3/facebook-links.txt",
+		"/Users/sahir/Documents/Registration/views/partials/delegate/additionalInfo.ejs",
+		"/Users/sahir/Documents/Registration/views/profile.ejs",
+		"/Users/sahir/Documents/Registration/emails/Verify_Account_Creation.handlebars",
+		"/Users/sahir/Documents/Registration/emails/ST_registration_to_school_request_approved.handlebars",
+		"/Users/sahir/Documents/Registration/emails/School_Registration_request_received.handlebars",
+		"/Users/sahir/Documents/Registration/emails/School_Registration_request_approved.handlebars",
+		"/Users/sahir/Documents/Registration/emails/Payment_Confirmation.handlebars",
+		"/Users/sahir/Documents/Registration/emails/HD_registration_to_school_request_approved.handlebars",
+		"/Users/sahir/Documents/Registration/emails/Forgot_Password.handlebars",
+		"/Users/sahir/Documents/Registration/emails/Delegate_Registration_Confirmation.handlebars",
+		"/Users/sahir/Documents/Registration/emails/conferenceRegistration/head_registration.handlebars",
+		"/Users/sahir/Documents/Registration/emails/Delegate_Assignment_Notification.handlebars",
+		"/Users/sahir/Documents/Registration/views/conference/teacher.ejs",
+		"/Users/sahir/Documents/Registration/views/partials/delegate/paymentVerified.ejs",
+		"/Users/sahir/Documents/Registration/views/faq.ejs",
+		"/Users/sahir/Documents/Registration/views/homepage.ejs"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/sahir/Documents/Registration"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Edsger W. Dijkstra",
+			"Description",
+			"Max Size: 650 delegates",
+			"Emergency Contact",
+			"sincerely",
+			"ConnectMUN is an annual conference that is currently in its 9th iteration hosted by its parent organization called Connect Global Youth Association. CGYA is an organization that aims to foster the leadership potential of secondary school students with innovative initiatives relating to global social, political, and economic issues. At ConnectMUN, we focus on a few things: </br></br> 1. Small Committee sizes (<35 per committee) </br> 2. Excellent Delegate Experience </br> 3. High level of debate </br> 4. Safety and Security of all attendees </br>",
+			"Safety and Security",
+			"At ConnectMUN,",
+			"At ConnectMUN, we focus on a few things",
+			"At ConnectMUN we focus on a few things",
+			"Awaiting Cheque",
+			"href=\"",
+			"name=\"",
+			"Are the country and committee assignments first-come first-serve?",
+			"November 20, 2016 - November 22, 2016",
+			"20 - 22",
+			"Welcome to the new Model UN registration system developed by CGYA. "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"#",
+			"name=\"#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
