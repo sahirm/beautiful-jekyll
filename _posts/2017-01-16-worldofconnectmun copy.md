@@ -3,15 +3,15 @@ layout: post
 title: The world of ConnectMUN   
 description: My Involvement in Model United Nations
 tags: [personal, MUN]
-image: assets/images/worldofconnectmun.jpg
+image: img/connectmun_stage.jpg
 ---
 
 
-A project that I have put significant investment is Connect Model United Nations (MUN). Currently I serve on the Board of Directors advising the conference and IT. It has been a rewarding experience for me and also been one where I have grown in more ways than I would have expected from computer science to public speaking, MUN and ConnectMUN have majorly shaped who I am.
+A project that I have put significant investment is Connect Model United Nations (MUN). Currently I serve on the Board of Directors Connect Global Youth Association (CGYA) advising the conference and IT. The CGYA is the parent organization for ConnectMUN. It has been a rewarding experience for me and also been one where I have grown in more ways than I would have expected from computer science to public speaking, MUN and ConnectMUN have majorly shaped who I am.
 
 
-
-<img href="http://connectmun.ca" src="assets/images/ConnectMUN_logo.png" style = "width: 150px; text-align: center;"/>
+<img href="http://cgya.ca" src="../img
+/cgyalogo.png" style = "width: 150px; text-align: center;"/>
 
 #### What is Model United Nations?
 
