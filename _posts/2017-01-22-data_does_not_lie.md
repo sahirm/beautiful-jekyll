@@ -179,20 +179,6 @@ tut_titanic_train &lt;- tut_titanic_train %&gt;%
 <pre class="r"><code># A nice output of the dataframe in table format
 knitr::kable(head(tut_titanic_train), format = &quot;markdown&quot;)</code></pre>
 <table>
-<colgroup>
-<col width="34%"></col>
-<col width="6%"></col>
-<col width="5%"></col>
-<col width="8%"></col>
-<col width="5%"></col>
-<col width="5%"></col>
-<col width="3%"></col>
-<col width="4%"></col>
-<col width="4%"></col>
-<col width="11%"></col>
-<col width="4%"></col>
-<col width="6%"></col>
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Name</th>
