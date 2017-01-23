@@ -119,7 +119,6 @@ $(document).ready(function () {
 </div>
 
 
-<p>```</p>
 <div id="visualizing-continuous-data-over-categorical." class="section level3">
 <h3>Visualizing continuous data over categorical.</h3>
 <p>Visualization of data is critical in understanding it properly. The famous <a href="http://blog.heapanalytics.com/anscombes-quartet-and-why-summary-statistics-dont-tell-the-whole-story/">Anscombe’s quartet</a> is a great example of the perils of skipping visualizations of data where the two axes are both continuous. In this blog post we look at visualizing continous data split over categorical variables.</p>
