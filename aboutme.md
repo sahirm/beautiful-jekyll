@@ -9,7 +9,7 @@ subtitle: Knowing my prior
 
 ## Personal
 
-My interests vary widely in the intellectual persuits so talk me up on anything from ancient history to cutting edge biochemistry and we can talk for hours! Privacy and ethical science are also topics dear to me! And of course if we can do some sort of analysis/visualization out of it then all the better! Don't be surprised if my site has wide berth of fields.
+My interests vary widely in the intellectual persuits so talk me up on anything from ancient history to cutting edge biochemistry and we can talk for hours. Privacy and ethical science are also topics dear to me. And of course if we can do some sort of analysis/visualization out of it then all the better! Don't be surprised if my site has a wide berth of fields.
 
 ## Education
 
