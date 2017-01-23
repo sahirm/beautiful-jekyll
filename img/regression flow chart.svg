@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1775.249px" height="739px" viewBox="-45 -190 1775.249 739" enable-background="new -45 -190 1775.249 739"
+	 xml:space="preserve">
+<g id="Cross_Sectional">
+	<text transform="matrix(1 0 0 1 -37 -169)" font-family="'MyriadPro-Regular'" font-size="12">Covariate Structure</text>
+	<text transform="matrix(1 0 0 1 210 -136)" font-family="'MyriadPro-Regular'" font-size="12"> Continuous</text>
+	<text transform="matrix(1 0 0 1 207 -170)" font-family="'MyriadPro-Regular'" font-size="12">Response Structure</text>
+	<text transform="matrix(1 0 0 1 -23 -135)" font-family="'MyriadPro-Regular'" font-size="12">Cross-Sectional</text>
+	<text transform="matrix(1 0 0 1 370 -169)" font-family="'MyriadPro-Regular'" font-size="12">Regression Model</text>
+	<text transform="matrix(1 0 0 1 332 -136)" font-family="'MyriadPro-Regular'" font-size="12">Simple Linear (lm)</text>
+	<text transform="matrix(1 0 0 1 210 -85)" font-family="'MyriadPro-Regular'" font-size="12">Categorical</text>
+	<text transform="matrix(1 0 0 1 -23 -87)" font-family="'MyriadPro-Regular'" font-size="12">Cross-Sectional</text>
+	<text transform="matrix(1 0 0 1 333 -101)" font-family="'MyriadPro-Regular'" font-size="12">Generalized Linear (glm)</text>
+	<text transform="matrix(1 0 0 1 333 -86.5996)" font-family="'MyriadPro-Regular'" font-size="12">   family = Poisson</text>
+	<text transform="matrix(1 0 0 1 333 -72.2002)" font-family="'MyriadPro-Regular'" font-size="12">    link =  log = log(x)</text>
+	<text transform="matrix(1 0 0 1 215 -28)" font-family="'MyriadPro-Regular'" font-size="12">Binary</text>
+	<text transform="matrix(1 0 0 1 -21.5 -29.5)" font-family="'MyriadPro-Regular'" font-size="12">Cross-Sectional</text>
+	<text transform="matrix(1 0 0 1 336 -39)" font-family="'MyriadPro-Regular'" font-size="12">Generalized Linear (glm)</text>
+	<text transform="matrix(1 0 0 1 336 -24.5996)" font-family="'MyriadPro-Regular'" font-size="12">   family = Binomial</text>
+	<text transform="matrix(1 0 0 1 336 -10.2002)" font-family="'MyriadPro-Regular'" font-size="12">    link =  logit = log(x/1-x)</text>
+	<text transform="matrix(1 0 0 1 214 239)" font-family="'MyriadPro-Regular'" font-size="12">Binary</text>
+	<text transform="matrix(1 0 0 1 208 21)" font-family="'MyriadPro-Regular'" font-size="12">Continuous</text>
+	<text transform="matrix(1 0 0 1 207 102)" font-family="'MyriadPro-Regular'" font-size="12">Categorical</text>
+	<text transform="matrix(1 0 0 1 -24 106)" font-family="'MyriadPro-Regular'" font-size="12">Cross-Sectional</text>
+	<text transform="matrix(1 0 0 1 -24 72)" font-family="'MyriadPro-Regular'" font-size="12">Cross-Sectional</text>
+	<text transform="matrix(1 0 0 1 329 200)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="12">Generalized Linear Mixed Effects (glmer)?</text>
+	<text transform="matrix(1 0 0 1 329 214.4004)" font-family="'MyriadPro-Regular'" font-size="12">   See Cross-Sectional</text>
+	<text transform="matrix(1 0 0 1 330 173)" font-family="'MyriadPro-Regular'" font-size="12">Linear Mixed Effects (lmer)</text>
+	<text transform="matrix(1 0 0 1 332 239)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="12">Generalized Linear Mixed Effects (glmer)?</text>
+	<text transform="matrix(1 0 0 1 332 253.4004)" font-family="'MyriadPro-Regular'" font-size="12">   See Cross-Sectional</text>
+	<text transform="matrix(1 0 0 1 107 -111)" font-family="'MyriadPro-Regular'" font-size="12">Linear</text>
+	<text transform="matrix(1 0 0 1 113 88)" font-family="'MyriadPro-Regular'" font-size="12">Poly</text>
+	<text transform="matrix(0 -1 1 0 187.1006 300.0566)" font-family="'MyriadPro-Regular'" font-size="12">Poly</text>
+	<text transform="matrix(0 -1 1 0 185.9482 218.9043)" font-family="'MyriadPro-Regular'" font-size="12">Linear</text>
+	<text transform="matrix(1 0 0 1 326.667 15.666)" font-family="'MyriadPro-Regular'" font-size="12">Spine</text>
+	<text transform="matrix(1 0 0 1 325.667 39.666)" font-family="'MyriadPro-Regular'" font-size="12">Moving Window (uniweighted)</text>
+	<text transform="matrix(1 0 0 1 327 60)" font-family="'MyriadPro-Regular'" font-size="12">Tricubic interpolation (multiweighted)</text>
+	<text transform="matrix(1 0 0 1 323.9995 80)" font-family="'MyriadPro-Regular'" font-size="12">Kernel smoothing </text>
+	<text transform="matrix(1 0 0 1 328.666 103.334)" fill="#ED1C24" font-family="'MyriadPro-Regular'" font-size="12">Apply link function I would guess?</text>
+	<text transform="matrix(1 0 0 1 213 140.333)" font-family="'MyriadPro-Regular'" font-size="12">Binary</text>
+	<text transform="matrix(1 0 0 1 331.666 137.668)" fill="#ED1C24" font-family="'MyriadPro-Regular'" font-size="12">Apply link function I would guess?</text>
+	<text transform="matrix(1 0 0 1 917 174)" font-family="'MyriadPro-Regular'" font-size="12">Respone can be missing if MCAR or MAR</text>
+</g>
+<g id="Time_Series">
+	<text transform="matrix(1 0 0 1 210 175)" font-family="'MyriadPro-Regular'" font-size="12">Continuous</text>
+	<text transform="matrix(1 0 0 1 -25 177)" font-family="'MyriadPro-Regular'" font-size="12">+ longitudinal</text>
+	<text transform="matrix(1 0 0 1 -26 342)" font-family="'MyriadPro-Regular'" font-size="12">+ longitudinal</text>
+	<text transform="matrix(1 0 0 1 -28.5 427.5)" font-family="'MyriadPro-Regular'" font-size="12">+ longitudinal</text>
+	<text transform="matrix(1 0 0 1 93 177)" font-family="'MyriadPro-Regular'" font-size="12">Mixed Effects </text>
+	<text transform="matrix(1 0 0 1 76 338)" font-family="'MyriadPro-Regular'" font-size="12">Generalized Estimating</text>
+	<text transform="matrix(1 0 0 1 76 352.4004)" font-family="'MyriadPro-Regular'" font-size="12">Equation</text>
+	<text transform="matrix(1 0 0 1 77 420)" font-family="'MyriadPro-Regular'" font-size="12">Transitional Models</text>
+	<text transform="matrix(1 0 0 1 210 203)" font-family="'MyriadPro-Regular'" font-size="12">Categorical</text>
+	<text transform="matrix(1 0 0 1 219.3335 353.334)" enable-background="new    "><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Categorical,</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">Binary</tspan></text>
+	<text transform="matrix(1 0 0 1 252 422)" fill="#ED1C24" font-family="'MyriadPro-Regular'" font-size="12">?</text>
+	<text transform="matrix(1 0 0 1 342 342)" fill="#ED1C24" font-family="'MyriadPro-Regular'" font-size="12">?</text>
+	<text transform="matrix(1 0 0 1 344 422)" fill="#ED1C24" font-family="'MyriadPro-Regular'" font-size="12">?</text>
+	<text transform="matrix(1 0 0 1 208 276)" font-family="'MyriadPro-Regular'" font-size="12">Continuous</text>
+	<text transform="matrix(1 0 0 1 207 306)" font-family="'MyriadPro-Regular'" font-size="12"> Categorical</text>
+	<text transform="matrix(1 0 0 1 77 210)" enable-background="new    "><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Between </tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">Individual effects </tspan><tspan x="0" y="28.8" font-family="'MyriadPro-Regular'" font-size="12">high</tspan></text>
+	<text transform="matrix(1 0 0 1 80 368)" enable-background="new    "><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Distribution Assumptions</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">Questionable</tspan></text>
+	<text transform="matrix(1 0 0 1 84 441)" font-family="'MyriadPro-Regular'" font-size="12">Markov Structure</text>
+	<text transform="matrix(1 0 0 1 820 340)" enable-background="new    "><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">working correlation </tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">matricies agree. </tspan><tspan x="0" y="28.8" font-family="'MyriadPro-Regular'" font-size="12">Use robust SE.</tspan></text>
+</g>
+<g id="grid">
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="70" y1="-190" x2="70" y2="539.525"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="201" y1="-190" x2="201" y2="539.525"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="315" y1="-186.447" x2="315" y2="543.078"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="-45" y1="-158" x2="949.728" y2="-158"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="266.647" y1="-120" x2="944.64" y2="-120"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="266.647" y1="-61" x2="943.368" y2="-61"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="-37.368" y1="154.312" x2="940.508" y2="154.312"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="-31.008" y1="319" x2="951" y2="319"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="-35.78" y1="148.688" x2="942.096" y2="148.688"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="-29.736" y1="390" x2="944.64" y2="390"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="570" y1="-180.525" x2="570" y2="549"/>
+	<text transform="matrix(1 0 0 1 585 -171)" font-family="'MyriadPro-Regular'" font-size="12">Equation</text>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="101.284" y1="0" x2="945.912" y2="0"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="270.463" y1="85" x2="942.096" y2="85"/>
+	<text transform="matrix(1 0 0 1 668 -172)" font-family="'MyriadPro-Regular'" font-size="12">Formula</text>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="646" y1="-184.079" x2="646" y2="545.447"/>
+	<text transform="matrix(1 0 0 1 -24 276)" font-family="'MyriadPro-Regular'" font-size="12">Cross-Sectional</text>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="270.463" y1="289" x2="942.096" y2="289"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="234.847" y1="262" x2="939.552" y2="262"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="270.463" y1="222" x2="942.096" y2="222"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="271.736" y1="186" x2="943.368" y2="186"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="412.931" y1="24" x2="951" y2="24"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="412.931" y1="46" x2="945.912" y2="46"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="415.475" y1="66" x2="948.456" y2="66"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="726" y1="-182.894" x2="726" y2="546.632"/>
+	<text transform="matrix(1 0 0 1 738 -172)" font-family="'MyriadPro-Regular'" font-size="12">Assumptions</text>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="811" y1="-183" x2="811" y2="546.525"/>
+	<text transform="matrix(1 0 0 1 826 -172)" font-family="'MyriadPro-Regular'" font-size="12">Tests/Checks</text>
+	<text transform="matrix(1 0 0 1 923 -169)" font-family="'MyriadPro-Regular'" font-size="12">Missing Data</text>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="904" y1="-184" x2="904" y2="545.525"/>
+</g>
+<text transform="matrix(1 0 0 1 1136.5 45.5)" font-family="'MyriadPro-Regular'" font-size="12">Missing Data</text>
+<text transform="matrix(1 0 0 1 1104.5 68.5)" font-family="'MyriadPro-Regular'" font-size="12">If MCAR, Complete Case is not biased but less effficient by lower n</text>
+<text transform="matrix(1 0 0 1 1105.5 88.5)" font-family="'MyriadPro-Regular'" font-size="12">If MAR, Complete Case is biased</text>
+<text transform="matrix(1 0 0 1 1107.5 108.5)" font-family="'MyriadPro-Regular'" font-size="12">More than 10% missing data rqeuiresa model</text>
+<text transform="matrix(1 0 0 1 1108 130)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Sensitivity Analysis - Use multiple missing data mechanisms and see how </tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">main model parameters change. If small, go for it.</tspan></text>
+<text transform="matrix(1 0 0 1 1145 161)" font-family="'MyriadPro-Regular'" font-size="12">Missing Data Mechanism - MCAR, MAR, or MNAR</text>
+<text transform="matrix(1 0 0 1 1168.5 180.5)" font-family="'MyriadPro-Regular'" font-size="12">Methods: </text>
+<text transform="matrix(1 0 0 1 1221.5 189.5)" font-family="'MyriadPro-Regular'" font-size="12">multiple imputation method (MIM)</text>
+<text transform="matrix(1 0 0 1 1221.5 229.5)" font-family="'MyriadPro-Regular'" font-size="12">Expectation-Maaximization algorithm</text>
+<text transform="matrix(1 0 0 1 1150.5 242.5)" font-family="'MyriadPro-Regular'" font-size="12">For GEE, can use weighted GEE</text>
+<text transform="matrix(1 0 0 1 1567.5 184.5)" font-family="'MyriadPro-Regular'" font-size="12">proper: Gibbs Sampler (MCMC)</text>
+<text transform="matrix(1 0 0 1 1433.5 186.5)" font-family="'MyriadPro-Regular'" font-size="12">Generating Data:</text>
+<text transform="matrix(1 0 0 1 1431.4824 210.5)" font-family="'MyriadPro-Regular'" font-size="12">Combining multiple results:</text>
+<text transform="matrix(1 0 0 1 1588.5 203.5)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Need at least 5-6 observed data for model</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">&lt;20% data for MIM</tspan></text>
+</svg>
