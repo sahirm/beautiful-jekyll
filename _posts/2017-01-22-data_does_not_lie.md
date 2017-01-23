@@ -66,7 +66,7 @@ h6 {
 </style>
 
 
-</head>
+
 
 <body>
 
