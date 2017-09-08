@@ -289,7 +289,14 @@ grid.arrange(gg_tut_jittered, gg_tut_jittered_alpha)</code></pre>
 <div id="how-did-i-do-this" class="section level3">
 <h3>How Did I Do this?</h3>
 <p><br /><br /> I learned and used mostly David Robinson’s <a href="https://gist.github.com/dgrtwo/eb7750e74997891d7c20">Gist</a> code but modified it slightly to allow us to flip the density from one side to the other. I used David’s modified violin plot as the density plot and combined it with a regular geom_boxplot.</p>
-<p>This code chunk is rather long but I’ll point out the edits I made in comments. <br /><br /> #### How does ggplot work on the inside? <br /><br /> Hadley Wickham has a tutorial on extending <a href="http://docs.ggplot2.org/current/vignettes/extending-ggplot2.html">ggplot</a> that goes more in detail that I will here but if you’re looking to be able to add a small functionality to an existing geom you can continue reading. A geom that you use like geom_violin in ggplot can be thought of in two parts: a ggproto object, and a layer function. The layer function will take the ggproto object to create our geom. In order to add the ability for the user to speify the direction of the density plot, I added a default value to the variable in the layer function (1) and then add it to the list of parameter variables (2). Now that I added <code>direction</code> to the parameters I could use it in the ggproto objecet (3, 4). Lastly, we just tell the ggproto object what the default value should be (5). <br /><br /></p>
+<p>This code chunk is rather long but I’ll point out the edits I made in comments. 
+
+<br /><br /> 
+
+<h4> How does ggplot work on the inside? </h4>
+<br /><br /> 
+
+Hadley Wickham has a tutorial on extending <a href="http://docs.ggplot2.org/current/vignettes/extending-ggplot2.html">ggplot</a> that goes more in detail that I will here but if you’re looking to be able to add a small functionality to an existing geom you can continue reading. A geom that you use like geom_violin in ggplot can be thought of in two parts: a ggproto object, and a layer function. The layer function will take the ggproto object to create our geom. In order to add the ability for the user to speify the direction of the density plot, I added a default value to the variable in the layer function (1) and then add it to the list of parameter variables (2). Now that I added <code>direction</code> to the parameters I could use it in the ggproto objecet (3, 4). Lastly, we just tell the ggproto object what the default value should be (5). <br /><br /></p>
 <pre class="r"><code># somewhat hackish solution to:
 # https://twitter.com/EamonCaddigan/status/646759751242620928
 # based mostly on copy/pasting from ggplot2 geom_violin source:
@@ -383,7 +390,11 @@ geom_flat_violin &lt;- function(mapping = NULL, data = NULL, stat = &quot;ydensi
     )
   )
 }</code></pre>
-<p><br /><br /> ### Handling Outliers <br /><br /> Currently I have outliers disabled but I want them back on now. This is what the graph looks like right now. <br /><br /></p>
+<p><br /><br /> 
+
+<h4>Handling Outliers </h4>
+
+<br /><br /> Currently I have outliers disabled but I want them back on now. This is what the graph looks like right now. <br /><br /></p>
 <pre class="r"><code>(gg_tut_titanic &lt;- ggplot(tut_titanic_train,
                          aes(x = Survived, 
                          y = Fare, 
