@@ -81,10 +81,10 @@ url-pretty: "sahir.moosvi.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "sahirmoosvi"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "96095782"
 
 # Google Tag Manager ID
 #gtm: ""
